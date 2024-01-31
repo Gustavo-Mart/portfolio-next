@@ -26,7 +26,6 @@ export const LandingPage = () => {
         <a href="#">projects</a>
       </div>
       <span data-hero-line className={styles.hero__line}></span>
-
       <div data-menu-item data-hidden>
         <a href="#">about</a>
       </div>
@@ -35,7 +34,6 @@ export const LandingPage = () => {
         <a href="#">contacts</a>
       </div>
     </div>
-
     <h1 className={styles.hero__title} data-scroll data-scroll-speed=".3">
       <span data-hidden data-title-first>
         Gustavo
